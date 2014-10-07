@@ -1,0 +1,5 @@
+{
+	"require": {
+        "contextio/php-contextio-lite": "dev-master"
+	}
+}
