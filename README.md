@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a PHP CLI example that uses the PHP [Context.IO Lite](http://context.io/docs/lite/) library.
+This is a PHP CLI example that uses the PHP [Context.IO Lite](https://github.com/contextio/PHP-Lite-ContextIO) library.
 
 ## How to
 
